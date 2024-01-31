@@ -14,8 +14,6 @@ public class Exercise1 {
        
         System.out.print(" ");
         int secondNumber = scanner.nextInt();
-
-        int sum = firstNumber + secondNumber;
         
       
         System.out.println(firstNumber +  secondNumber );
